@@ -1,0 +1,1 @@
+This repository contains a basic carnival management database system designed using SQL. The system is structured to manage various aspects of a carnival, including visitors, events, and ticketing. The database schema includes several tables, stored procedures, and triggers to ensure efficient data management and integrity.
